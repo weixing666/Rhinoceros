@@ -1,0 +1,20 @@
+<view class="addresscontent">
+  <view class="warehouse">
+    <view class="addre_icon">
+      <view class="icon">图标</view>
+      <view class="title">仓库地址</view>
+    </view>
+    <view class="iphone">
+      <text class="iphone_item1">犀牛仓库</text>
+      <text class="iphone_item2">13723685482</text>
+      <text class="iphone_item3">复制</text>
+    </view>
+    <view class="detailed">深圳市龙华区龙华街道工业路壹城环智中心C座2607室</view>
+  </view>
+
+<van-button type="default">默认按钮</van-button>
+<van-button type="primary">主要按钮</van-button>
+<van-button type="info">信息按钮</van-button>
+<van-button type="warning">警告按钮</van-button>
+<van-button type="danger">危险按钮</van-button>
+</view>

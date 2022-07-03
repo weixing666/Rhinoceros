@@ -1,0 +1,24 @@
+{
+  "name": "Rhinoceros",
+  "version": "1.0.0",
+  "description": "这是一个服务于客户从国内转运快件到国外的微信小程序",
+  "main": ".eslintrc.js",
+  "dependencies": {
+    "@vant/weapp": "^1.10.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/weixing666/Rhinoceros.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/weixing666/Rhinoceros/issues"
+  },
+  "homepage": "https://github.com/weixing666/Rhinoceros#readme"
+}
